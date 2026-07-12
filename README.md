@@ -1,156 +1,86 @@
 <div align="center">
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=AI+Systems+Architect+%26+Full-Stack+Builder;Founder+of+Lumina+AI+OS;Building+Autonomous+AI+Agents;From+Idea+to+Production+at+Scale" alt="Typing SVG" />
+<!-- ═══════════ ANIMATED HEADER ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=%F0%9F%A4%96+Welcome+to+my+Digital+Space;AI+Architect+%7C+Full-Stack+Builder+%7C+SaaS+Founder;Building+the+Future+with+Autonomous+AI+Agents" alt="typing svg" />
+
+<br>
+<br>
+
+<!-- ═══════════ GLITCH NAME ═══════════ -->
+<h1>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=AL+ASAR+JADEED&fontSize=55&fontColor=00D4FF,6C63FF,7C3AED&fontAlignY=35&descAlignY=40&descSize=16&desc=%E2%80%9CThe+best+code+is+the+code+that+writes+itself.%E2%80%9D" width="100%"/>
+</h1>
+
+<!-- ═══════════ STATUS BADGES ═══════════ -->
+<img src="https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F-Currently_Building-Lumina_AI_OS-6C63FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-Open_to_Collaborate-00D4FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=alasrjadeed&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br>
+<br>
+
+<!-- ═══════════ SOCIAL STRIP ═══════════ -->
+<a href="https://github.com/alasrjadeed">
+  <img src="https://img.shields.io/badge/Follow-%40alasrjadeed-6C63FF?style=social&logo=github" />
 </a>
-
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:7C3AED&height=220&section=header&text=AL+ASAR+JADEED&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI+%7C+Full-Stack+%7C+Systems+Architecture+%7C+SaaS&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://img.shields.io/github/stars/alasrjadeed?style=social&label=Stars" />
+<img src="https://img.shields.io/github/followers/alasrjadeed?style=social&label=Followers" />
 
 </div>
 
 <br>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--                ABOUT ME                    -->
+<!-- ═══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D1117,50:6C63FF,70:00D4FF,100:0D1117&height=80&section=separator" width="100%"/>
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/alasrjadeed?label=Follow&style=social)](https://github.com/alasrjadeed?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/alasrjadeed?style=social)](https://github.com/alasrjadeed?tab=stars)
-[![Profile views](https://komarev.com/ghpvc/?username=alasrjadeed&color=6C63FF&style=for-the-badge)](https://github.com/alasrjadeed)
+## <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/master/emojis/cute%20(48).gif" width="30"/> About Me
 
 </div>
 
 <br>
-
----
-
-## About Me
-
-> I build **autonomous AI systems** that work, learn, and ship — without hand-holding.
-
-- **AI Systems Architect** — Designing multi-agent AI orchestration engines (19 agents, 8 AI providers, RAG pipelines)
-- **Full-Stack Builder** — Python, TypeScript, React, Next.js, FastAPI, NestJS, Flutter, Kotlin
-- **SaaS Product Builder** — From zero to production-ready platforms in weeks, not months
-- **Automation Obsessed** — Browser automation, desktop control, voice systems, self-healing infrastructure
-
-Currently building **Lumina AI OS** — an autonomous AI Employee Operating System that plans, executes, tests, and improves itself.
-
-<br>
-
----
-
-## Tech Arsenal
-
-<div align="center">
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-**AI & Machine Learning**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-**Backend & Databases**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-</div>
-
-<br>
-
----
-
-## Flagship Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### Lumina AI OS
-> *The world's first autonomous AI Employee Operating System*
+> I don't just write code — I build **autonomous systems** that think, plan, execute, and improve themselves.
 
-**19 AI agents** | **8 AI providers** | **87 API endpoints** | **8-layer memory engine**
+### What I Do
 
-- Multi-agent orchestration with CEO, Engineer, Marketing, Sales, SEO agents
-- Browser automation (Playwright), Desktop control, Voice (STT/TTS)
-- RAG with Ollama embeddings, self-healing engine
-- React dashboard + Flutter mobile + Electron desktop + VS Code extension
+- **AI Systems Architect** — Designing multi-agent orchestration engines with 19 specialized AI agents, 8 AI providers, and RAG pipelines
 
-`Python` `FastAPI` `React` `PostgreSQL` `Redis` `Docker` `Kubernetes`
+- **Full-Stack Engineer** — Python, TypeScript, React, Next.js, FastAPI, NestJS, Flutter, Kotlin — from database to pixel
 
-[![Repository](https://img.shields.io/badge/Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alasrjadeed/Lumina-AI-OS)
+- **SaaS Product Founder** — Taking ideas from zero to production-ready platforms in weeks, not months
 
-</td>
-<td width="50%" valign="top">
+- **Automation Engineer** — Browser automation (Playwright), Desktop control, Voice systems (STT/TTS), Self-healing infrastructure
 
-### Smile Video Studio
-> *AI-Powered Video Production Studio*
+### Current Mission
 
-Describe a video concept → AI generates the full production
-
-- Scene management, timeline tracks, asset browser
-- AI-generated scripts, narration (TTS), music
-- Gemini AI integration for intelligent video creation
-- Web + Android app (Capacitor)
-
-`React` `TypeScript` `Express` `Gemini AI` `Capacitor`
-
-[![Repository](https://img.shields.io/badge/Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alasrjadeed/Smile-Video-Studio)
+Building **Lumina AI OS** — an autonomous AI Employee Operating System that plans, executes, tests, learns, and improves without human intervention.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### Lumina SEO
-> *Autonomous AI-Powered SEO/GEO/AEO Platform*
+<div align="center">
 
-Research keywords, write articles, publish to CMS, build backlinks, track visibility.
+### <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/master/emojis/cute%20(49).gif" width="25"/> Quick Stats
 
-- GEO Score system (Schema, Entities, Brand Mentions, Citations)
-- AI visibility tracking across ChatGPT, Gemini, Perplexity
-- Content calendar, automated monthly reports
+```mermaid
+pie title "Where I Spend My Time"
+    "AI/ML Engineering" : 35
+    "Full-Stack Development" : 30
+    "System Architecture" : 20
+    "DevOps & Infrastructure" : 10
+    "Learning & Research" : 5
+```
 
-`Next.js 16` `NestJS 11` `TypeORM` `PostgreSQL` `Turborepo`
-
-</td>
-<td width="50%" valign="top">
-
-### LeadForge AI
-> *AI Lead Generation & Outreach SaaS*
-
-B2B lead discovery, AI enrichment, automated email/WhatsApp outreach.
-
-- Multi-country lead generation
-- White-label API support, webhook system
-- Developer portal with SDKs
-- OpenAI + Ollama (local LLMs) integration
-
-`Next.js` `NestJS` `Fastify` `BullMQ` `PostgreSQL` `Drizzle`
+</div>
 
 </td>
 </tr>
@@ -158,77 +88,331 @@ B2B lead discovery, AI enrichment, automated email/WhatsApp outreach.
 
 <br>
 
----
+<!-- ═══════════════════════════════════════════ -->
+<!--              TECH ARSENAL                   -->
+<!-- ═══════════════════════════════════════════ -->
 
-## What I Build
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D1117,50:7C3AED,70:6C63FF,100:0D1117&height=80&section=separator" width="100%"/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/master/emojis/cute%20(27).gif" width="30"/> Tech Arsenal
+
+</div>
+
+<br>
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                    LUMINA AI OS                         │
-│          Autonomous AI Employee Operating System         │
-├─────────────┬─────────────┬──────────────┬──────────────┤
-│  AI Agents  │  Browser    │  Desktop     │   Voice      │
-│  19 Agents  │  Playwright │  Electron    │   STT/TTS    │
-├─────────────┼─────────────┼──────────────┼──────────────┤
-│  RAG Engine │  Memory     │  Self-Heal   │   Plugins    │
-│  Ollama     │  8-Layer    │  Auto-Fix    │   57 Skills  │
-├─────────────┴─────────────┴──────────────┴──────────────┤
-│  React Dashboard │ Flutter Mobile │ VS Code Extension    │
-│  FastAPI Backend │ PostgreSQL DB  │ Docker + K8s         │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                    ⚡ LANGUAGES & RUNTIMES                          │
+├──────────┬──────────┬──────────┬──────────┬──────────┬──────────────┤
+│  Python  │   TypeScript │  Kotlin  │   Dart   │    PHP   │  JavaScript │
+│ ████████ │  ███████ │  █████   │  ████    │  ████    │  ████        │
+└──────────┴──────────┴──────────┴──────────┴──────────┴──────────────┘
+
+┌──────────────────────────────────────────────────────────────────────┐
+│                    🤖 AI & MACHINE LEARNING                        │
+├──────────────┬──────────────┬──────────────┬────────────────────────┤
+│  OpenAI/GPT  │ Google Gemini│   Ollama     │  TensorFlow/PyTorch   │
+│  ████████    │  ████████    │  ██████      │  ██████               │
+├──────────────┼──────────────┼──────────────┼────────────────────────┤
+│  RAG Systems │  Multi-Agent │  Voice STT   │  Browser Automation   │
+│  ████████    │  ████████    │  ██████      │  ██████               │
+└──────────────┴──────────────┴──────────────┴────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────┐
+│                    🏗️ BACKEND & FRAMEWORKS                         │
+├──────────┬──────────┬──────────┬──────────┬──────────┬──────────────┤
+│  FastAPI │  NestJS  │  Next.js │  React   │ Express  │   Laravel    │
+│ ████████ │  ███████ │  ███████ │  ██████  │  █████   │  █████       │
+└──────────┴──────────┴──────────┴──────────┴──────────┴──────────────┘
+
+┌──────────────────────────────────────────────────────────────────────┐
+│                    💾 DATA & INFRASTRUCTURE                        │
+├──────────┬──────────┬──────────┬──────────┬──────────┬──────────────┤
+│PostgreSQL│  Redis   │  Docker  │   K8s    │  BullMQ  │  Turborepo   │
+│ ████████ │  ██████  │  ███████ │  ██████  │  █████   │  █████       │
+└──────────┴──────────┴──────────┴──────────┴──────────┴──────────────┘
 ```
 
 </div>
 
 <br>
 
----
-
-## GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alasrjadeed&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=6C63FF&icon_color=7C3AED&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alasrjadeed&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=6C63FF&text_color=C9D1D9" />
+<!-- Languages Row -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-</div>
+<br><br>
 
-<div align="center">
+<!-- AI Row -->
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alasrjadeed&theme=tokyonight&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<br><br>
 
-</div>
+<!-- Frameworks Row -->
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 
-<div align="center">
+<br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alasrjadeed&theme=tokyonight&background=0D1117&hide_border=true&ring=6C63FF&fire=7C3AED&currStreakLabel=C9D1D9&sideLabels=C9D1D9)
+<!-- Infra Row -->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
 <br>
 
----
+<!-- ═══════════════════════════════════════════ -->
+<!--            FLAGSHIP PROJECTS                -->
+<!-- ═══════════════════════════════════════════ -->
 
-## Activity Graph
-
-[![AL ASAR JADEED's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alasrjadeed&bg_color=0D1117&color=6C63FF&line=7C3AED&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
----
-
-## Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D1117,50:00D4FF,70:6C63FF,100:0D1117&height=80&section=separator" width="100%"/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alasrjadeed)
+## <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/master/emojis/cute%20(28).gif" width="30"/> Featured Projects
+
+</div>
 
 <br>
 
-**"The best code is the code that writes itself."**
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:7C3AED&height=100&section=footer" width="100%"/>
+<a href="https://github.com/alasrjadeed/Lumina-AI-OS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alasrjadeed&repo=Lumina-AI-OS&theme=tokyonight&bg_color=0D1117&border_color=6C63FF&title_color=00D4FF&icon_color=7C3AED&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/alasrjadeed/Smile-Video-Studio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alasrjadeed&repo=Smile-Video-Studio&theme=tokyonight&bg_color=0D1117&border_color=6C63FF&title_color=00D4FF&icon_color=7C3AED&text_color=C9D1D9" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/alasrjadeed/alasrjadeed.github.io">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alasrjadeed&repo=alasrjadeed.github.io&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=00D4FF&icon_color=6C63FF&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/alasrjadeed/whiteboard-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alasrjadeed&repo=whiteboard-app&theme=tokyonight&bg_color=0D1117&border_color=7C3AED&title_color=00D4FF&icon_color=6C63FF&text_color=C9D1D9" />
+</a>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--         ARCHITECTURE SHOWCASE              -->
+<!-- ═══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D1117,50:6C63FF,70:7C3AED,100:0D1117&height=80&section=separator" width="100%"/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/master/emojis/cute%20(63).gif" width="30"/> What I Build
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Lumina AI OS — Architecture
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    🧠 LUMINA AI OS                                  ║
+║           Autonomous AI Employee Operating System                    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐              ║
+║  │  🎯 CEO      │  │  💻 Engineer │  │  📊 Marketing │              ║
+║  │  Orchestrator│  │  Agent       │  │  Manager     │              ║
+║  └──────┬───────┘  └──────┬───────┘  └──────┬───────┘              ║
+║         │                  │                  │                       ║
+║         └──────────────────┼──────────────────┘                       ║
+║                            │                                         ║
+║                  ┌─────────▼─────────┐                               ║
+║                  │   ⚡ Event Bus    │                               ║
+║                  │   (Kernel)        │                               ║
+║                  └─────────┬─────────┘                               ║
+║                            │                                         ║
+║  ┌──────────┐  ┌──────────▼──────────┐  ┌──────────┐               ║
+║  │ 🧠 RAG  │  │   🔌 Plugin System  │  │ 🗣️ Voice│               ║
+║  │ Ollama   │  │   57 Skills         │  │ STT/TTS  │               ║
+║  │ Embeds   │  │   12 Presets        │  │ Wake Word│               ║
+║  └──────────┘  └─────────────────────┘  └──────────┘               ║
+║                                                                      ║
+║  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐           ║
+║  │ 🌐      │  │ 🖥️       │  │ 📱       │  │ 🔧      │           ║
+║  │ Browser │  │ Desktop  │  │ Mobile   │  │ VS Code  │           ║
+║  │ Playwright│ │ Electron │  │ Flutter  │  │ Extension│           ║
+║  └──────────┘  └──────────┘  └──────────┘  └──────────┘           ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  React Dashboard │ FastAPI Backend │ PostgreSQL │ Redis │ Docker K8s  ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Product Ecosystem
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  🎬 Smile          📊 Lumina        🔥 LeadForge               │
+│  Video Studio      SEO              AI                         │
+│  ─────────         ─────            ──────                     │
+│  AI Video          Autonomous       B2B Lead                   │
+│  Production        SEO/GEO/AEO      Generation                 │
+│                                                                 │
+│  🐾 PetMind        📸 Lumina        🎨 Whiteboard              │
+│  AI                Repost           App                        │
+│  ─────────         ─────            ──────                     │
+│  AI Pet Care       Instagram        Collaborative              │
+│  Companion         Automation       Learning                   │
+│                                                                 │
+│                    All Powered By LUMINA AI OS                   │
+│                    ════════════════════════                     │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--            GITHUB STATS                    -->
+<!-- ═══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D1117,50:00D4FF,70:6C63FF,100:0D1117&height=80&section=separator" width="100%"/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/master/emojis/cute%20(32).gif" width="30"/> GitHub Analytics
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=alasrjadeed&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00D4FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=7C3AED" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alasrjadeed&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00D4FF&text_color=C9D1D9&langs_count=8" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=alasrjadeed&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&ring=00D4FF&bg_color=0D1117)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=alasrjadeed&theme=tokyonight&background=0D1117&hide_border=true&ring=00D4FF&fire=6C63FF&currStreakLabel=7C3AED&sideLabels=C9D1D9)
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--          ACTIVITY & CONTRIBUTIONS           -->
+<!-- ═══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D1117,50:7C3AED,70:00D4FF,100:0D1117&height=80&section=separator" width="100%"/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/master/emojis/cute%20(53).gif" width="30"/> Activity Graph
+
+</div>
+
+<br>
+
+[![AL ASAR JADEED's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alasrjadeed&bg_color=0D1117&color=00D4FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--            CONTRIBUTION SNAKE              -->
+<!-- ═══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D1117,50:6C63FF,70:7C3AED,100:0D1117&height=80&section=separator" width="100%"/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/master/emojis/cute%20(55).gif" width="30"/> Contribution Snake
+
+<br>
+
+<img src="https://raw.githubusercontent.com/alasrjadeed/alasrjadeed/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              CONNECT                       -->
+<!-- ═══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D1117,50:00D4FF,70:6C63FF,100:0D1117&height=80&section=separator" width="100%"/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/master/emojis/cute%20(46).gif" width="30"/> Let's Connect
+
+<br>
+
+<a href="https://github.com/alasrjadeed">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br>
+<br>
+
+---
+
+<br>
+
+<!-- ═══════════ VISITORS COUNTER ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D1117,50:6C63FF,70:00D4FF,100:0D1117&height=120&section=footer&text=THANKS+FOR+VISITING&fontSize=22&fontColor=00D4FF&desc=Made+with+%E2%9D%A4%EF%B8%8F+by+AL+ASAR+JADEED&descSize=14&descAlignY=60" width="100%"/>
 
 </div>
